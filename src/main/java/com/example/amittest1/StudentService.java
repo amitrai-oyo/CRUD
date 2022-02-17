@@ -1,5 +1,6 @@
 package com.example.amittest1;
 
+import com.example.amittest1.Student.Student;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

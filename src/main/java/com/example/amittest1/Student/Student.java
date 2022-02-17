@@ -1,4 +1,4 @@
-package com.example.amittest1;
+package com.example.amittest1.Student;
 
 import lombok.*;
 import net.bytebuddy.dynamic.loading.InjectionClassLoader;
